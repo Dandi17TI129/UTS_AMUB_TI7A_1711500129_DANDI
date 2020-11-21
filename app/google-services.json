@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "796163711621",
+    "firebase_url": "https://uts-dandi.firebaseio.com",
+    "project_id": "uts-dandi",
+    "storage_bucket": "uts-dandi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796163711621:android:0435424259d39d6771bfec",
+        "android_client_info": {
+          "package_name": "com.example.uts_amub_ti7a_1711500129_dandi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796163711621-l0vp5pfugmnedl3d3es7e81bqtfvuldj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.uts_amub_ti7a_1711500129_dandi",
+            "certificate_hash": "0456f25541c42fef06769da40e120291783290d2"
+          }
+        },
+        {
+          "client_id": "796163711621-mibisdfj9krdplt7fsmj7gdj02n019lg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJkY2vhCmO1zVyEg_bNUQIu77SfbJmA_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796163711621-mibisdfj9krdplt7fsmj7gdj02n019lg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
